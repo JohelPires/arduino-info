@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap");
 body {
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 300;
   letter-spacing: 1.3px;
   line-height: 1.6rem;
@@ -31,4 +30,4 @@ body {
 ul {
   max-width: 800px;
   text-align: justify;
-}
+}/*# sourceMappingURL=style.css.map */
